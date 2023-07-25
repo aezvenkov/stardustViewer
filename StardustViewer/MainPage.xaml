@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StardustViewer.MainPage"
+             xmlns:viewmodel="clr-namespace:StardustViewer.ViewModel"
+             xmlns:model="clr-namespace:StardustViewer.Model"
+             x:DataType="viewmodel:MainViewModel">
+
+    <ScrollView>
+        <Grid 
+            RowDefinitions="100, Auto, *"
+            ColumnDefinitions=".75*, .25*"
+            Padding="10"
+            ColumnSpacing="10">
+
+            <Image 
+                Grid.ColumnSpan="2"
+                Source="dotnet_bot.png" />
+
+            <Button
+                Text="Pick JSON file" 
+                Grid.Row="1" 
+                MaximumHeightRequest="48"
+                FontSize="16"
+                Grid.ColumnSpan="2" 
+                Command="{Binding LoadingRecordsCommand}" />
+
+            <CollectionView x:Name="MeasurementsCollectionView"
+                            Grid.Row="2"
+                            Grid.ColumnSpan="2"
+                            ItemsSource="{Binding Records}"
+                            SelectionMode="None">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="{x:Type model:Record}">
+                        <SwipeView>
+                            <SwipeView.RightItems>
+                                <SwipeItem 
+                                    Text="Delete" 
+                                    BackgroundColor="DarkRed"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}}, Path=DeleteRecordCommand}"
+                                    CommandParameter="{Binding MeasurementTitle}"
+                                    />
+                            </SwipeView.RightItems>
+                            <Grid Padding="0.5">
+                                <Frame>
+                                    <Frame.GestureRecognizers>
+                                        <TapGestureRecognizer
+                                            Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}}, Path=TapCommand}"
+                                            CommandParameter="{Binding .}"
+                                            />
+                                    </Frame.GestureRecognizers>
+                                    <Label 
+                                        Text="{Binding MeasurementTitle}"
+                                        FontSize="24">
+                                    </Label>
+                                </Frame>
+                            </Grid>
+                        </SwipeView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+            </CollectionView>
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

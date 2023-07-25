@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StardustViewer.DetailPage"
+             Title="Detail Page"
+             xmlns:viewmodel="clr-namespace:StardustViewer.ViewModel"
+             xmlns:utils="clr-namespace:StardustViewer.Utils"
+             x:DataType="viewmodel:DetailViewModel">
+
+    <ContentPage.Resources>
+        <utils:ValueToColorConverter x:Key="ValueToColorConverter" />
+        <ResourceDictionary>
+            <utils:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <Grid
+            RowDefinitions="60, Auto, *"
+            ColumnDefinitions=".75*, .75*"
+            Padding="10"
+            ColumnSpacing="10"
+            RowSpacing="6">
+
+            <Button
+                MaximumHeightRequest="48"
+                FontSize="16"
+                Text="Back"
+                Grid.Row="0"
+                Grid.ColumnSpan="2"
+                Command="{Binding GoBackCommand}" />
+
+            <Image
+                Aspect="Fill"
+                MaximumWidthRequest="680"
+                MaximumHeightRequest="500"
+                BackgroundColor="DarkGray"
+                Grid.Row="1"
+                Grid.ColumnSpan="2"
+                x:Name="imageControl"
+                Source="{Binding Record.Image, Converter={StaticResource ByteArrayToImageConverter}}"/>
+
+            <StackLayout
+                Orientation="Vertical"
+                Grid.Row="2"
+                Grid.Column="0">
+
+                <Label
+                    FontSize="20"
+                    Text="Measurement title:"
+                    TextTransform="Uppercase" />
+
+                <Label
+                    FontSize="20"
+                    Text="Verified taggant name:"
+                    TextTransform="Uppercase" />
+
+                <Label
+                    FontSize="20"
+                    Text="Verification status:"
+                    TextTransform="Uppercase" />
+
+                <Label
+                    FontSize="20"
+                    Text="Date/Time:"
+                    TextTransform="Uppercase" />
+
+                <Label
+                    FontSize="20"
+                    Text="Device processor id:"
+                    TextTransform="Uppercase" />
+
+                <Label
+                    FontSize="20"
+                    Text="First noise level:"
+                    TextTransform="Uppercase" />
+
+                <Label
+                    FontSize="20"
+                    Text="Second noise level:"
+                    TextTransform="Uppercase" />
+
+            </StackLayout>
+
+            <StackLayout
+                Orientation="Vertical"
+                Grid.Row="2"
+                Grid.Column="1">
+
+                <Label
+                    FontSize="20"
+                    Text="{Binding Record.MeasurementTitle}" />
+
+                <Label
+                    FontSize="20"
+                    Text="{Binding Record.VerifiedTaggantName}" />
+
+                <Label
+                    FontSize="20"
+                    Text="{Binding Record.VerificationStatus}"
+                    TextColor="{Binding Record.VerificationStatus, Converter={StaticResource ValueToColorConverter}}"/>
+
+                <Label
+                    FontSize="20"
+                    Text="{Binding Record.DateTime}" />
+
+                <Label
+                    FontSize="20"
+                    Text="{Binding Record.DeviceProcessorId}" />
+
+                <Label
+                    FontSize="20"
+                    Text="{Binding Record.FirstNoiseLevel}" />
+
+                <Label
+                    FontSize="20"
+                    Text="{Binding Record.SecondNoiseLevel}" />
+
+            </StackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>
