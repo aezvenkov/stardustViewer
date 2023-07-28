@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-07-25T06:57:50.936</Modified>
+      <Modified>2023-07-27T21:18:28.567</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-07-25T06:57:50.516</Modified>
+      <Modified>2023-07-27T20:52:22.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\StardustViewer.runtimeconfig.json">
       <PackagePath>StardustViewer.runtimeconfig.json</PackagePath>
-      <Modified>2023-07-24T17:27:09.095</Modified>
+      <Modified>2023-07-27T19:58:39.942</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\StardustViewer.dll">
       <PackagePath>StardustViewer.dll</PackagePath>
-      <Modified>2023-07-25T06:57:48.092</Modified>
+      <Modified>2023-07-27T21:18:26.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>StardustViewer.exe</PackagePath>
-      <Modified>2023-07-25T06:57:48.132</Modified>
+      <Modified>2023-07-27T21:18:26.833</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\StardustViewer.deps.json">
       <PackagePath>StardustViewer.deps.json</PackagePath>
-      <Modified>2023-07-25T06:57:50.186</Modified>
+      <Modified>2023-07-27T19:58:39.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -60,10 +60,6 @@
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.VisualBasic.Core.dll">
       <PackagePath>Microsoft.VisualBasic.Core.dll</PackagePath>
       <Modified>2023-06-20T19:58:44.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.VisualBasic.dll">
-      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
-      <Modified>2023-06-20T19:35:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
@@ -192,10 +188,6 @@
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Drawing.Primitives.dll">
       <PackagePath>System.Drawing.Primitives.dll</PackagePath>
       <Modified>2023-06-20T19:59:28.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Drawing.dll">
-      <PackagePath>System.Drawing.dll</PackagePath>
-      <Modified>2023-06-20T19:35:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Dynamic.Runtime.dll">
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
@@ -713,10 +705,6 @@
       <PackagePath>System.dll</PackagePath>
       <Modified>2023-06-20T19:35:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\WindowsBase.dll">
-      <PackagePath>WindowsBase.dll</PackagePath>
-      <Modified>2023-06-20T19:35:40.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\mscorlib.dll">
       <PackagePath>mscorlib.dll</PackagePath>
       <Modified>2023-06-20T19:35:38.000</Modified>
@@ -724,6 +712,222 @@
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
       <Modified>2023-06-20T19:35:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Accessibility.dll">
+      <PackagePath>Accessibility.dll</PackagePath>
+      <Modified>2023-06-21T17:40:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\DirectWriteForwarder.dll">
+      <PackagePath>DirectWriteForwarder.dll</PackagePath>
+      <Modified>2023-06-21T21:01:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.VisualBasic.Forms.dll">
+      <PackagePath>Microsoft.VisualBasic.Forms.dll</PackagePath>
+      <Modified>2023-06-21T21:00:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2023-06-21T17:41:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.Win32.Registry.AccessControl.dll">
+      <PackagePath>Microsoft.Win32.Registry.AccessControl.dll</PackagePath>
+      <Modified>2023-06-21T21:00:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.Win32.SystemEvents.dll">
+      <PackagePath>Microsoft.Win32.SystemEvents.dll</PackagePath>
+      <Modified>2023-06-21T21:00:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationCore.dll">
+      <PackagePath>PresentationCore.dll</PackagePath>
+      <Modified>2023-06-21T21:01:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework-SystemCore.dll">
+      <PackagePath>PresentationFramework-SystemCore.dll</PackagePath>
+      <Modified>2023-06-21T21:01:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework-SystemData.dll">
+      <PackagePath>PresentationFramework-SystemData.dll</PackagePath>
+      <Modified>2023-06-21T21:01:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework-SystemDrawing.dll">
+      <PackagePath>PresentationFramework-SystemDrawing.dll</PackagePath>
+      <Modified>2023-06-21T21:01:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework-SystemXml.dll">
+      <PackagePath>PresentationFramework-SystemXml.dll</PackagePath>
+      <Modified>2023-06-21T21:01:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework-SystemXmlLinq.dll">
+      <PackagePath>PresentationFramework-SystemXmlLinq.dll</PackagePath>
+      <Modified>2023-06-21T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework.Aero.dll">
+      <PackagePath>PresentationFramework.Aero.dll</PackagePath>
+      <Modified>2023-06-21T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework.Aero2.dll">
+      <PackagePath>PresentationFramework.Aero2.dll</PackagePath>
+      <Modified>2023-06-21T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework.AeroLite.dll">
+      <PackagePath>PresentationFramework.AeroLite.dll</PackagePath>
+      <Modified>2023-06-21T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework.Classic.dll">
+      <PackagePath>PresentationFramework.Classic.dll</PackagePath>
+      <Modified>2023-06-21T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework.Luna.dll">
+      <PackagePath>PresentationFramework.Luna.dll</PackagePath>
+      <Modified>2023-06-21T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework.Royale.dll">
+      <PackagePath>PresentationFramework.Royale.dll</PackagePath>
+      <Modified>2023-06-21T21:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationFramework.dll">
+      <PackagePath>PresentationFramework.dll</PackagePath>
+      <Modified>2023-06-21T21:01:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\PresentationUI.dll">
+      <PackagePath>PresentationUI.dll</PackagePath>
+      <Modified>2023-06-21T21:01:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ReachFramework.dll">
+      <PackagePath>ReachFramework.dll</PackagePath>
+      <Modified>2023-06-21T21:01:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.CodeDom.dll">
+      <PackagePath>System.CodeDom.dll</PackagePath>
+      <Modified>2023-06-21T21:00:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Configuration.ConfigurationManager.dll">
+      <PackagePath>System.Configuration.ConfigurationManager.dll</PackagePath>
+      <Modified>2023-06-21T21:00:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Design.dll">
+      <PackagePath>System.Design.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Diagnostics.EventLog.Messages.dll">
+      <PackagePath>System.Diagnostics.EventLog.Messages.dll</PackagePath>
+      <Modified>2023-06-20T19:35:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Diagnostics.EventLog.dll">
+      <PackagePath>System.Diagnostics.EventLog.dll</PackagePath>
+      <Modified>2023-06-21T21:00:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Diagnostics.PerformanceCounter.dll">
+      <PackagePath>System.Diagnostics.PerformanceCounter.dll</PackagePath>
+      <Modified>2023-06-21T21:00:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.DirectoryServices.dll">
+      <PackagePath>System.DirectoryServices.dll</PackagePath>
+      <Modified>2023-06-21T21:00:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Drawing.Common.dll">
+      <PackagePath>System.Drawing.Common.dll</PackagePath>
+      <Modified>2023-06-21T21:00:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Drawing.Design.dll">
+      <PackagePath>System.Drawing.Design.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Drawing.dll">
+      <PackagePath>System.Drawing.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.IO.Packaging.dll">
+      <PackagePath>System.IO.Packaging.dll</PackagePath>
+      <Modified>2023-06-21T21:00:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Printing.dll">
+      <PackagePath>System.Printing.dll</PackagePath>
+      <Modified>2023-06-21T21:01:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Resources.Extensions.dll">
+      <PackagePath>System.Resources.Extensions.dll</PackagePath>
+      <Modified>2023-06-21T21:00:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Security.Cryptography.Pkcs.dll">
+      <PackagePath>System.Security.Cryptography.Pkcs.dll</PackagePath>
+      <Modified>2023-06-21T21:00:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Security.Cryptography.ProtectedData.dll">
+      <PackagePath>System.Security.Cryptography.ProtectedData.dll</PackagePath>
+      <Modified>2023-06-21T21:00:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Security.Cryptography.Xml.dll">
+      <PackagePath>System.Security.Cryptography.Xml.dll</PackagePath>
+      <Modified>2023-06-21T21:00:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Security.Permissions.dll">
+      <PackagePath>System.Security.Permissions.dll</PackagePath>
+      <Modified>2023-06-21T21:00:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Threading.AccessControl.dll">
+      <PackagePath>System.Threading.AccessControl.dll</PackagePath>
+      <Modified>2023-06-21T21:00:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Controls.Ribbon.dll">
+      <PackagePath>System.Windows.Controls.Ribbon.dll</PackagePath>
+      <Modified>2023-06-21T21:01:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Extensions.dll">
+      <PackagePath>System.Windows.Extensions.dll</PackagePath>
+      <Modified>2023-06-21T21:00:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Forms.Design.Editors.dll">
+      <PackagePath>System.Windows.Forms.Design.Editors.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Forms.Design.dll">
+      <PackagePath>System.Windows.Forms.Design.dll</PackagePath>
+      <Modified>2023-06-21T21:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Forms.Primitives.dll">
+      <PackagePath>System.Windows.Forms.Primitives.dll</PackagePath>
+      <Modified>2023-06-21T21:01:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Forms.dll">
+      <PackagePath>System.Windows.Forms.dll</PackagePath>
+      <Modified>2023-06-21T21:01:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Input.Manipulations.dll">
+      <PackagePath>System.Windows.Input.Manipulations.dll</PackagePath>
+      <Modified>2023-06-21T21:01:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Windows.Presentation.dll">
+      <PackagePath>System.Windows.Presentation.dll</PackagePath>
+      <Modified>2023-06-21T21:01:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\System.Xaml.dll">
+      <PackagePath>System.Xaml.dll</PackagePath>
+      <Modified>2023-06-21T21:01:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\UIAutomationClient.dll">
+      <PackagePath>UIAutomationClient.dll</PackagePath>
+      <Modified>2023-06-21T21:01:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\UIAutomationClientSideProviders.dll">
+      <PackagePath>UIAutomationClientSideProviders.dll</PackagePath>
+      <Modified>2023-06-21T21:01:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\UIAutomationProvider.dll">
+      <PackagePath>UIAutomationProvider.dll</PackagePath>
+      <Modified>2023-06-21T21:01:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\UIAutomationTypes.dll">
+      <PackagePath>UIAutomationTypes.dll</PackagePath>
+      <Modified>2023-06-21T21:01:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\WindowsBase.dll">
+      <PackagePath>WindowsBase.dll</PackagePath>
+      <Modified>2023-06-21T21:01:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\WindowsFormsIntegration.dll">
+      <PackagePath>WindowsFormsIntegration.dll</PackagePath>
+      <Modified>2023-06-21T21:01:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Core.Runtime.win\7.0.92\lib\net7.0-windows10.0.19041\Microsoft.Maui.dll">
       <PackagePath>Microsoft.Maui.dll</PackagePath>
@@ -800,6 +1004,910 @@
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\native\msquic.dll">
       <PackagePath>msquic.dll</PackagePath>
       <Modified>2023-06-20T19:35:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\native\D3DCompiler_47_cor3.dll">
+      <PackagePath>D3DCompiler_47_cor3.dll</PackagePath>
+      <Modified>2022-10-19T14:45:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\native\PenImc_cor3.dll">
+      <PackagePath>PenImc_cor3.dll</PackagePath>
+      <Modified>2023-06-21T19:29:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\native\PresentationNative_cor3.dll">
+      <PackagePath>PresentationNative_cor3.dll</PackagePath>
+      <Modified>2023-06-15T21:43:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\native\vcruntime140_cor3.dll">
+      <PackagePath>vcruntime140_cor3.dll</PackagePath>
+      <Modified>2023-05-24T02:27:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\native\wpfgfx_cor3.dll">
+      <PackagePath>wpfgfx_cor3.dll</PackagePath>
+      <Modified>2023-06-21T19:30:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>cs\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\PresentationCore.resources.dll">
+      <PackagePath>cs\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\PresentationFramework.resources.dll">
+      <PackagePath>cs\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\PresentationUI.resources.dll">
+      <PackagePath>cs\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\ReachFramework.resources.dll">
+      <PackagePath>cs\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>cs\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>cs\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>cs\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\System.Windows.Forms.resources.dll">
+      <PackagePath>cs\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>cs\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\System.Xaml.resources.dll">
+      <PackagePath>cs\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\UIAutomationClient.resources.dll">
+      <PackagePath>cs\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>cs\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\UIAutomationProvider.resources.dll">
+      <PackagePath>cs\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\UIAutomationTypes.resources.dll">
+      <PackagePath>cs\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\WindowsBase.resources.dll">
+      <PackagePath>cs\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\cs\WindowsFormsIntegration.resources.dll">
+      <PackagePath>cs\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>de\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\PresentationCore.resources.dll">
+      <PackagePath>de\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\PresentationFramework.resources.dll">
+      <PackagePath>de\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\PresentationUI.resources.dll">
+      <PackagePath>de\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\ReachFramework.resources.dll">
+      <PackagePath>de\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>de\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>de\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>de\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\System.Windows.Forms.resources.dll">
+      <PackagePath>de\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>de\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\System.Xaml.resources.dll">
+      <PackagePath>de\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\UIAutomationClient.resources.dll">
+      <PackagePath>de\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>de\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\UIAutomationProvider.resources.dll">
+      <PackagePath>de\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\UIAutomationTypes.resources.dll">
+      <PackagePath>de\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\WindowsBase.resources.dll">
+      <PackagePath>de\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\de\WindowsFormsIntegration.resources.dll">
+      <PackagePath>de\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>es\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\PresentationCore.resources.dll">
+      <PackagePath>es\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\PresentationFramework.resources.dll">
+      <PackagePath>es\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\PresentationUI.resources.dll">
+      <PackagePath>es\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\ReachFramework.resources.dll">
+      <PackagePath>es\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>es\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>es\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>es\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\System.Windows.Forms.resources.dll">
+      <PackagePath>es\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>es\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\System.Xaml.resources.dll">
+      <PackagePath>es\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\UIAutomationClient.resources.dll">
+      <PackagePath>es\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>es\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\UIAutomationProvider.resources.dll">
+      <PackagePath>es\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\UIAutomationTypes.resources.dll">
+      <PackagePath>es\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\WindowsBase.resources.dll">
+      <PackagePath>es\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\es\WindowsFormsIntegration.resources.dll">
+      <PackagePath>es\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>fr\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\PresentationCore.resources.dll">
+      <PackagePath>fr\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\PresentationFramework.resources.dll">
+      <PackagePath>fr\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\PresentationUI.resources.dll">
+      <PackagePath>fr\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\ReachFramework.resources.dll">
+      <PackagePath>fr\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>fr\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>fr\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>fr\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\System.Windows.Forms.resources.dll">
+      <PackagePath>fr\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>fr\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\System.Xaml.resources.dll">
+      <PackagePath>fr\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\UIAutomationClient.resources.dll">
+      <PackagePath>fr\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>fr\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\UIAutomationProvider.resources.dll">
+      <PackagePath>fr\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\UIAutomationTypes.resources.dll">
+      <PackagePath>fr\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\WindowsBase.resources.dll">
+      <PackagePath>fr\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\fr\WindowsFormsIntegration.resources.dll">
+      <PackagePath>fr\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>it\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\PresentationCore.resources.dll">
+      <PackagePath>it\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\PresentationFramework.resources.dll">
+      <PackagePath>it\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\PresentationUI.resources.dll">
+      <PackagePath>it\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\ReachFramework.resources.dll">
+      <PackagePath>it\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>it\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>it\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>it\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\System.Windows.Forms.resources.dll">
+      <PackagePath>it\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>it\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\System.Xaml.resources.dll">
+      <PackagePath>it\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\UIAutomationClient.resources.dll">
+      <PackagePath>it\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>it\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\UIAutomationProvider.resources.dll">
+      <PackagePath>it\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\UIAutomationTypes.resources.dll">
+      <PackagePath>it\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\WindowsBase.resources.dll">
+      <PackagePath>it\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\it\WindowsFormsIntegration.resources.dll">
+      <PackagePath>it\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>ja\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\PresentationCore.resources.dll">
+      <PackagePath>ja\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\PresentationFramework.resources.dll">
+      <PackagePath>ja\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\PresentationUI.resources.dll">
+      <PackagePath>ja\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\ReachFramework.resources.dll">
+      <PackagePath>ja\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>ja\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>ja\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>ja\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\System.Windows.Forms.resources.dll">
+      <PackagePath>ja\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>ja\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\System.Xaml.resources.dll">
+      <PackagePath>ja\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\UIAutomationClient.resources.dll">
+      <PackagePath>ja\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>ja\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\UIAutomationProvider.resources.dll">
+      <PackagePath>ja\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\UIAutomationTypes.resources.dll">
+      <PackagePath>ja\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\WindowsBase.resources.dll">
+      <PackagePath>ja\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ja\WindowsFormsIntegration.resources.dll">
+      <PackagePath>ja\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>ko\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\PresentationCore.resources.dll">
+      <PackagePath>ko\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\PresentationFramework.resources.dll">
+      <PackagePath>ko\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\PresentationUI.resources.dll">
+      <PackagePath>ko\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\ReachFramework.resources.dll">
+      <PackagePath>ko\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>ko\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>ko\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>ko\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\System.Windows.Forms.resources.dll">
+      <PackagePath>ko\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>ko\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\System.Xaml.resources.dll">
+      <PackagePath>ko\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\UIAutomationClient.resources.dll">
+      <PackagePath>ko\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>ko\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\UIAutomationProvider.resources.dll">
+      <PackagePath>ko\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\UIAutomationTypes.resources.dll">
+      <PackagePath>ko\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\WindowsBase.resources.dll">
+      <PackagePath>ko\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ko\WindowsFormsIntegration.resources.dll">
+      <PackagePath>ko\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>pl\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\PresentationCore.resources.dll">
+      <PackagePath>pl\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\PresentationFramework.resources.dll">
+      <PackagePath>pl\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\PresentationUI.resources.dll">
+      <PackagePath>pl\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\ReachFramework.resources.dll">
+      <PackagePath>pl\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>pl\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>pl\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>pl\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\System.Windows.Forms.resources.dll">
+      <PackagePath>pl\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>pl\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\System.Xaml.resources.dll">
+      <PackagePath>pl\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\UIAutomationClient.resources.dll">
+      <PackagePath>pl\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>pl\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\UIAutomationProvider.resources.dll">
+      <PackagePath>pl\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\UIAutomationTypes.resources.dll">
+      <PackagePath>pl\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\WindowsBase.resources.dll">
+      <PackagePath>pl\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pl\WindowsFormsIntegration.resources.dll">
+      <PackagePath>pl\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>pt-BR\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\PresentationCore.resources.dll">
+      <PackagePath>pt-BR\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\PresentationFramework.resources.dll">
+      <PackagePath>pt-BR\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\PresentationUI.resources.dll">
+      <PackagePath>pt-BR\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\ReachFramework.resources.dll">
+      <PackagePath>pt-BR\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>pt-BR\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>pt-BR\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>pt-BR\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\System.Windows.Forms.resources.dll">
+      <PackagePath>pt-BR\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>pt-BR\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\System.Xaml.resources.dll">
+      <PackagePath>pt-BR\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\UIAutomationClient.resources.dll">
+      <PackagePath>pt-BR\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>pt-BR\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\UIAutomationProvider.resources.dll">
+      <PackagePath>pt-BR\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\UIAutomationTypes.resources.dll">
+      <PackagePath>pt-BR\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\WindowsBase.resources.dll">
+      <PackagePath>pt-BR\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\pt-BR\WindowsFormsIntegration.resources.dll">
+      <PackagePath>pt-BR\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>ru\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\PresentationCore.resources.dll">
+      <PackagePath>ru\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\PresentationFramework.resources.dll">
+      <PackagePath>ru\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\PresentationUI.resources.dll">
+      <PackagePath>ru\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\ReachFramework.resources.dll">
+      <PackagePath>ru\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>ru\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>ru\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>ru\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\System.Windows.Forms.resources.dll">
+      <PackagePath>ru\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>ru\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\System.Xaml.resources.dll">
+      <PackagePath>ru\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\UIAutomationClient.resources.dll">
+      <PackagePath>ru\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>ru\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\UIAutomationProvider.resources.dll">
+      <PackagePath>ru\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\UIAutomationTypes.resources.dll">
+      <PackagePath>ru\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\WindowsBase.resources.dll">
+      <PackagePath>ru\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\ru\WindowsFormsIntegration.resources.dll">
+      <PackagePath>ru\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>tr\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\PresentationCore.resources.dll">
+      <PackagePath>tr\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\PresentationFramework.resources.dll">
+      <PackagePath>tr\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\PresentationUI.resources.dll">
+      <PackagePath>tr\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\ReachFramework.resources.dll">
+      <PackagePath>tr\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>tr\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>tr\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>tr\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\System.Windows.Forms.resources.dll">
+      <PackagePath>tr\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>tr\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\System.Xaml.resources.dll">
+      <PackagePath>tr\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\UIAutomationClient.resources.dll">
+      <PackagePath>tr\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>tr\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\UIAutomationProvider.resources.dll">
+      <PackagePath>tr\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\UIAutomationTypes.resources.dll">
+      <PackagePath>tr\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\WindowsBase.resources.dll">
+      <PackagePath>tr\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\tr\WindowsFormsIntegration.resources.dll">
+      <PackagePath>tr\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\PresentationCore.resources.dll">
+      <PackagePath>zh-Hans\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\PresentationFramework.resources.dll">
+      <PackagePath>zh-Hans\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\PresentationUI.resources.dll">
+      <PackagePath>zh-Hans\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\ReachFramework.resources.dll">
+      <PackagePath>zh-Hans\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>zh-Hans\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>zh-Hans\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>zh-Hans\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\System.Windows.Forms.resources.dll">
+      <PackagePath>zh-Hans\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>zh-Hans\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\System.Xaml.resources.dll">
+      <PackagePath>zh-Hans\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\UIAutomationClient.resources.dll">
+      <PackagePath>zh-Hans\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>zh-Hans\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\UIAutomationProvider.resources.dll">
+      <PackagePath>zh-Hans\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\UIAutomationTypes.resources.dll">
+      <PackagePath>zh-Hans\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\WindowsBase.resources.dll">
+      <PackagePath>zh-Hans\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hans\WindowsFormsIntegration.resources.dll">
+      <PackagePath>zh-Hans\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.VisualBasic.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\PresentationCore.resources.dll">
+      <PackagePath>zh-Hant\PresentationCore.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\PresentationFramework.resources.dll">
+      <PackagePath>zh-Hant\PresentationFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\PresentationUI.resources.dll">
+      <PackagePath>zh-Hant\PresentationUI.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\ReachFramework.resources.dll">
+      <PackagePath>zh-Hant\ReachFramework.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\System.Windows.Controls.Ribbon.resources.dll">
+      <PackagePath>zh-Hant\System.Windows.Controls.Ribbon.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:32:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\System.Windows.Forms.Design.resources.dll">
+      <PackagePath>zh-Hant\System.Windows.Forms.Design.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\System.Windows.Forms.Primitives.resources.dll">
+      <PackagePath>zh-Hant\System.Windows.Forms.Primitives.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:40:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\System.Windows.Forms.resources.dll">
+      <PackagePath>zh-Hant\System.Windows.Forms.resources.dll</PackagePath>
+      <Modified>2023-06-21T17:41:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\System.Windows.Input.Manipulations.resources.dll">
+      <PackagePath>zh-Hant\System.Windows.Input.Manipulations.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\System.Xaml.resources.dll">
+      <PackagePath>zh-Hant\System.Xaml.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:29:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\UIAutomationClient.resources.dll">
+      <PackagePath>zh-Hant\UIAutomationClient.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\UIAutomationClientSideProviders.resources.dll">
+      <PackagePath>zh-Hant\UIAutomationClientSideProviders.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\UIAutomationProvider.resources.dll">
+      <PackagePath>zh-Hant\UIAutomationProvider.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\UIAutomationTypes.resources.dll">
+      <PackagePath>zh-Hant\UIAutomationTypes.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\WindowsBase.resources.dll">
+      <PackagePath>zh-Hant\WindowsBase.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:30:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windowsdesktop.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\zh-Hant\WindowsFormsIntegration.resources.dll">
+      <PackagePath>zh-Hant\WindowsFormsIntegration.resources.dll</PackagePath>
+      <Modified>2023-06-21T19:31:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.29\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -937,6 +2045,10 @@
       <PackagePath>SkiaSharp.dll</PackagePath>
       <Modified>2022-10-03T22:36:52.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\system.reactive\6.0.0\lib\net6.0-windows10.0.19041\System.Reactive.dll">
+      <PackagePath>System.Reactive.dll</PackagePath>
+      <Modified>2023-05-19T05:42:22.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\.nuget\packages\microsoft.graphics.win2d\1.0.5.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2023-05-31T20:12:36.000</Modified>
@@ -967,23 +2079,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:33:04.453</Modified>
+      <Modified>2023-07-25T07:16:21.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:33:04.505</Modified>
+      <Modified>2023-07-25T07:16:21.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:33:04.551</Modified>
+      <Modified>2023-07-25T07:16:21.989</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:33:04.614</Modified>
+      <Modified>2023-07-25T07:16:22.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:33:04.783</Modified>
+      <Modified>2023-07-25T07:16:22.158</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -995,227 +2107,227 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-07-24T08:48:13.782</Modified>
+      <Modified>2023-07-25T07:16:22.218</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.065</Modified>
+      <Modified>2023-07-25T07:16:22.524</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.082</Modified>
+      <Modified>2023-07-25T07:16:22.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.093</Modified>
+      <Modified>2023-07-25T07:16:22.552</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.115</Modified>
+      <Modified>2023-07-25T07:16:22.568</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.181</Modified>
+      <Modified>2023-07-25T07:16:22.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.857</Modified>
+      <Modified>2023-07-25T07:16:22.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.860</Modified>
+      <Modified>2023-07-25T07:16:22.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.873</Modified>
+      <Modified>2023-07-25T07:16:22.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.863</Modified>
+      <Modified>2023-07-25T07:16:22.324</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.866</Modified>
+      <Modified>2023-07-25T07:16:22.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.834</Modified>
+      <Modified>2023-07-25T07:16:22.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.838</Modified>
+      <Modified>2023-07-25T07:16:22.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.854</Modified>
+      <Modified>2023-07-25T07:16:22.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.841</Modified>
+      <Modified>2023-07-25T07:16:22.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.844</Modified>
+      <Modified>2023-07-25T07:16:22.304</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.795</Modified>
+      <Modified>2023-07-25T07:16:22.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.799</Modified>
+      <Modified>2023-07-25T07:16:22.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.802</Modified>
+      <Modified>2023-07-25T07:16:22.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.806</Modified>
+      <Modified>2023-07-25T07:16:22.253</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.811</Modified>
+      <Modified>2023-07-25T07:16:22.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.814</Modified>
+      <Modified>2023-07-25T07:16:22.264</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.817</Modified>
+      <Modified>2023-07-25T07:16:22.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.831</Modified>
+      <Modified>2023-07-25T07:16:22.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.821</Modified>
+      <Modified>2023-07-25T07:16:22.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.824</Modified>
+      <Modified>2023-07-25T07:16:22.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.932</Modified>
+      <Modified>2023-07-25T07:16:22.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.939</Modified>
+      <Modified>2023-07-25T07:16:22.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.947</Modified>
+      <Modified>2023-07-25T07:16:22.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.957</Modified>
+      <Modified>2023-07-25T07:16:22.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.974</Modified>
+      <Modified>2023-07-25T07:16:22.436</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.899</Modified>
+      <Modified>2023-07-25T07:16:22.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.904</Modified>
+      <Modified>2023-07-25T07:16:22.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.909</Modified>
+      <Modified>2023-07-25T07:16:22.374</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.914</Modified>
+      <Modified>2023-07-25T07:16:22.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.926</Modified>
+      <Modified>2023-07-25T07:16:22.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.877</Modified>
+      <Modified>2023-07-25T07:16:22.340</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.880</Modified>
+      <Modified>2023-07-25T07:16:22.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.884</Modified>
+      <Modified>2023-07-25T07:16:22.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.888</Modified>
+      <Modified>2023-07-25T07:16:22.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.894</Modified>
+      <Modified>2023-07-25T07:16:22.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.983</Modified>
+      <Modified>2023-07-25T07:16:22.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.991</Modified>
+      <Modified>2023-07-25T07:16:22.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.001</Modified>
+      <Modified>2023-07-25T07:16:22.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.014</Modified>
+      <Modified>2023-07-25T07:16:22.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:14.052</Modified>
+      <Modified>2023-07-25T07:16:22.513</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.738</Modified>
+      <Modified>2023-07-25T07:16:22.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.751</Modified>
+      <Modified>2023-07-25T07:16:22.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.773</Modified>
+      <Modified>2023-07-25T07:16:22.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.794</Modified>
+      <Modified>2023-07-25T07:16:22.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.851</Modified>
+      <Modified>2023-07-25T07:16:22.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\stardust_logo.scale-100.png">
       <PackagePath>stardust_logo.scale-100.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.737</Modified>
+      <Modified>2023-07-25T07:16:22.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\stardust_logo.scale-125.png">
       <PackagePath>stardust_logo.scale-125.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.743</Modified>
+      <Modified>2023-07-25T07:16:22.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\stardust_logo.scale-150.png">
       <PackagePath>stardust_logo.scale-150.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.748</Modified>
+      <Modified>2023-07-25T07:16:22.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\stardust_logo.scale-200.png">
       <PackagePath>stardust_logo.scale-200.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.756</Modified>
+      <Modified>2023-07-25T07:16:22.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\artem\source\repos\StardustViewer\StardustViewer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\stardust_logo.scale-400.png">
       <PackagePath>stardust_logo.scale-400.png</PackagePath>
-      <Modified>2023-07-24T08:48:13.792</Modified>
+      <Modified>2023-07-25T07:16:22.330</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -109,6 +109,10 @@
               "target": "Package",
               "version": "[2.88.3, )"
             },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Xamarin.Android.Glide": {
               "target": "Package",
               "version": "[4.13.2.2, )",
@@ -246,6 +250,10 @@
             "SkiaSharp": {
               "target": "Package",
               "version": "[2.88.3, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -329,6 +337,10 @@
             "SkiaSharp": {
               "target": "Package",
               "version": "[2.88.3, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -423,6 +435,10 @@
             "SkiaSharp": {
               "target": "Package",
               "version": "[2.88.3, )"
+            },
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

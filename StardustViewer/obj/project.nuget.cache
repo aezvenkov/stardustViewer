@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f1hXCjetk75rkHkmViLD1ZusQlagvAA/4m7H7nSrHMykPx4YkDJVeC2jLB7aVvkXNVeO+jDhbnuvvro4IZXKog==",
+  "dgSpecHash": "FxSs+ivRnn02Kr3ZjoixqB6jBdfPfMlG6qvU61Yrg8VKyVnB2UftevcZT/+5QE6R95C8fmuNQzP/NP4pcCnXMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\artem\\source\\repos\\StardustViewer\\StardustViewer\\StardustViewer.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\artem\\.nuget\\packages\\skiasharp.nativeassets.maccatalyst\\2.88.3\\skiasharp.nativeassets.maccatalyst.2.88.3.nupkg.sha512",
     "C:\\Users\\artem\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
     "C:\\Users\\artem\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
     "C:\\Users\\artem\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
     "C:\\Users\\artem\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\artem\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",

@@ -8,5 +8,7 @@ public partial class DetailPage : ContentPage
 	{
 		InitializeComponent();
         BindingContext = vm;
+
+        LabModeFrame.IsVisible = !Config.IsUserApp;
     }
 }

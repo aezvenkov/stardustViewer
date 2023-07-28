@@ -8,26 +8,33 @@
              x:DataType="viewmodel:MainViewModel">
 
     <ScrollView>
-        <Grid 
+        <Grid
             RowDefinitions="100, Auto, *"
             ColumnDefinitions=".75*, .25*"
             Padding="10"
             ColumnSpacing="10">
 
-            <Image 
-                Grid.ColumnSpan="2"
-                Source="dotnet_bot.png" />
-
             <Button
-                Text="Pick JSON file" 
-                Grid.Row="1" 
+                Text="Pick JSON file"
+                Grid.Row="0"
                 MaximumHeightRequest="48"
                 FontSize="16"
-                Grid.ColumnSpan="2" 
+                Grid.Column="0"
                 Command="{Binding LoadingRecordsCommand}" />
 
+            <Button
+                Text="Clear list"
+                TextColor="White"
+                BackgroundColor="DarkRed"
+                Grid.Row="0"
+                MaximumHeightRequest="48"
+                FontSize="16"
+                Grid.Column="1"
+                Command="{Binding ClearListCommand}" />
+
+
             <CollectionView x:Name="MeasurementsCollectionView"
-                            Grid.Row="2"
+                            Grid.Row="1"
                             Grid.ColumnSpan="2"
                             ItemsSource="{Binding Records}"
                             SelectionMode="None">
@@ -35,22 +42,20 @@
                     <DataTemplate x:DataType="{x:Type model:Record}">
                         <SwipeView>
                             <SwipeView.RightItems>
-                                <SwipeItem 
-                                    Text="Delete" 
+                                <SwipeItem
+                                    Text="Delete"
                                     BackgroundColor="DarkRed"
                                     Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}}, Path=DeleteRecordCommand}"
-                                    CommandParameter="{Binding MeasurementTitle}"
-                                    />
+                                    CommandParameter="{Binding MeasurementTitle}" />
                             </SwipeView.RightItems>
                             <Grid Padding="0.5">
                                 <Frame>
                                     <Frame.GestureRecognizers>
                                         <TapGestureRecognizer
                                             Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:MainViewModel}}, Path=TapCommand}"
-                                            CommandParameter="{Binding .}"
-                                            />
+                                            CommandParameter="{Binding .}" />
                                     </Frame.GestureRecognizers>
-                                    <Label 
+                                    <Label
                                         Text="{Binding MeasurementTitle}"
                                         FontSize="24">
                                     </Label>

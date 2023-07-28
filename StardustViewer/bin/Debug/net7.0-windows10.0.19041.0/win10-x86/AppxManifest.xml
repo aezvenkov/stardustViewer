@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="57e75213-6f6e-4175-8fe2-6f8f29e9a368" Publisher="CN=User Name" Version="1.0.0.1" ProcessorArchitecture="x86" />
+  <Identity Name="57e75213-6f6e-4175-8fe2-6f8f29e9a368" Publisher="CN=artem" Version="0.0.2.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="10C35ADD-31C2-4D08-901C-E7BB06FC9D13" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>StardustViewer</DisplayName>

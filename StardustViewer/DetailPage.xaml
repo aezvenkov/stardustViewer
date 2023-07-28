@@ -6,6 +6,7 @@
              Title="Detail Page"
              xmlns:viewmodel="clr-namespace:StardustViewer.ViewModel"
              xmlns:utils="clr-namespace:StardustViewer.Utils"
+             xmlns:model="clr-namespace:StardustViewer.Model"
              x:DataType="viewmodel:DetailViewModel">
 
     <ContentPage.Resources>
@@ -16,108 +17,206 @@
     </ContentPage.Resources>
 
     <ScrollView>
-        <Grid
-            RowDefinitions="60, Auto, *"
-            ColumnDefinitions=".75*, .75*"
-            Padding="10"
-            ColumnSpacing="10"
-            RowSpacing="6">
 
-            <Button
-                MaximumHeightRequest="48"
-                FontSize="16"
-                Text="Back"
-                Grid.Row="0"
-                Grid.ColumnSpan="2"
-                Command="{Binding GoBackCommand}" />
+        <StackLayout>
+            <Grid
+                RowDefinitions="60, Auto, *"
+                ColumnDefinitions=".75*, .75*"
+                Padding="10"
+                ColumnSpacing="10"
+                RowSpacing="6">
 
-            <Image
-                Aspect="Fill"
-                MaximumWidthRequest="680"
-                MaximumHeightRequest="500"
-                BackgroundColor="DarkGray"
-                Grid.Row="1"
-                Grid.ColumnSpan="2"
-                x:Name="imageControl"
-                Source="{Binding Record.Image, Converter={StaticResource ByteArrayToImageConverter}}"/>
+                <Button
+                    MaximumHeightRequest="48"
+                    FontSize="16"
+                    Text="Back"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="2"
+                    Command="{Binding GoBackCommand}" />
 
-            <StackLayout
-                Orientation="Vertical"
-                Grid.Row="2"
-                Grid.Column="0">
+                <Border
+                    Grid.Row="1"
+                    Grid.ColumnSpan="2"
+                    MaximumWidthRequest="680"
+                    MaximumHeightRequest="500"
+                    StrokeShape="RoundRectangle 10"
+                    BackgroundColor="DarkGray">
+                    <Image
+                        Aspect="Fill"
+                        x:Name="imageControl"
+                        Source="{Binding Record.Image, Converter={StaticResource ByteArrayToImageConverter}}" />
+                </Border>
 
-                <Label
-                    FontSize="20"
-                    Text="Measurement title:"
-                    TextTransform="Uppercase" />
+                <StackLayout
+                    Orientation="Vertical"
+                    Grid.Row="2"
+                    Grid.Column="0">
 
-                <Label
-                    FontSize="20"
-                    Text="Verified taggant name:"
-                    TextTransform="Uppercase" />
+                    <Label
+                        FontSize="20"
+                        Text="Measurement title:"
+                        TextTransform="Uppercase" />
 
-                <Label
-                    FontSize="20"
-                    Text="Verification status:"
-                    TextTransform="Uppercase" />
+                    <Label
+                        FontSize="20"
+                        Text="Verified taggant name:"
+                        TextTransform="Uppercase" />
 
-                <Label
-                    FontSize="20"
-                    Text="Date/Time:"
-                    TextTransform="Uppercase" />
+                    <Label
+                        FontSize="20"
+                        Text="Verification status:"
+                        TextTransform="Uppercase" />
 
-                <Label
-                    FontSize="20"
-                    Text="Device processor id:"
-                    TextTransform="Uppercase" />
+                    <Label
+                        FontSize="20"
+                        Text="Date/Time:"
+                        TextTransform="Uppercase" />
 
-                <Label
-                    FontSize="20"
-                    Text="First noise level:"
-                    TextTransform="Uppercase" />
+                    <Label
+                        FontSize="20"
+                        Text="Device processor id:"
+                        TextTransform="Uppercase" />
 
-                <Label
-                    FontSize="20"
-                    Text="Second noise level:"
-                    TextTransform="Uppercase" />
+                    <Label
+                        FontSize="20"
+                        Text="First noise level:"
+                        TextTransform="Uppercase" />
 
-            </StackLayout>
+                    <Label
+                        FontSize="20"
+                        Text="Second noise level:"
+                        TextTransform="Uppercase" />
 
-            <StackLayout
-                Orientation="Vertical"
-                Grid.Row="2"
-                Grid.Column="1">
+                    <Label
+                        FontSize="20"
+                        Text="Geolocation (long):"
+                        TextTransform="Uppercase" />
 
-                <Label
-                    FontSize="20"
-                    Text="{Binding Record.MeasurementTitle}" />
+                    <Label
+                        FontSize="20"
+                        Text="Geolocation (lat):"
+                        TextTransform="Uppercase" />
 
-                <Label
-                    FontSize="20"
-                    Text="{Binding Record.VerifiedTaggantName}" />
+                </StackLayout>
 
-                <Label
-                    FontSize="20"
-                    Text="{Binding Record.VerificationStatus}"
-                    TextColor="{Binding Record.VerificationStatus, Converter={StaticResource ValueToColorConverter}}"/>
+                <StackLayout
+                    Orientation="Vertical"
+                    Grid.Row="2"
+                    Grid.Column="1">
 
-                <Label
-                    FontSize="20"
-                    Text="{Binding Record.DateTime}" />
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.MeasurementTitle}" />
 
-                <Label
-                    FontSize="20"
-                    Text="{Binding Record.DeviceProcessorId}" />
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.VerifiedTaggantName}" />
 
-                <Label
-                    FontSize="20"
-                    Text="{Binding Record.FirstNoiseLevel}" />
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.VerificationStatus}"
+                        TextColor="{Binding Record.VerificationStatus, Converter={StaticResource ValueToColorConverter}}" />
 
-                <Label
-                    FontSize="20"
-                    Text="{Binding Record.SecondNoiseLevel}" />
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.DateTime}" />
 
-            </StackLayout>
-        </Grid>
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.DeviceProcessorId}" />
+
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.FirstNoiseLevel}" />
+
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.SecondNoiseLevel}" />
+
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.Geolocation.First}" />
+
+                    <Label
+                        FontSize="20"
+                        Text="{Binding Record.Geolocation.Second}" />
+                </StackLayout>
+            </Grid>
+
+            <Frame
+                x:Name="LabModeFrame"
+                Margin="12, 4, 12, 4">
+                <StackLayout>
+                    <Label
+                        Margin="0,0, 0, 12"
+                        FontSize="20"
+                        HorizontalOptions="Center"
+                        Text="Signal values"
+                        TextTransform="Uppercase"
+                        />
+
+                    <CollectionView
+                        ItemsSource="{Binding Record.SignalValues}"
+                        SelectionMode="None">
+                        <CollectionView.ItemsLayout>
+                            <LinearItemsLayout Orientation="Vertical" />
+                        </CollectionView.ItemsLayout>
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Frame>
+                                    <StackLayout
+                                        Orientation="Horizontal">
+                                        <Label
+                                            Margin="0, 0, 8, 0"
+                                            FontSize="20"
+                                            Text="Signal -"/>
+                                        <Label
+                                            Margin="8, 0, 0, 0"
+                                            FontSize="20"
+                                            Text="{Binding .}" />
+                                    </StackLayout>
+                                </Frame>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+
+                    <Label
+                        Margin="0,16, 0, 12"
+                        FontSize="20"
+                        HorizontalOptions="Center"
+                        Text="Ratio values"
+                        TextTransform="Uppercase"
+                    />
+
+                    <CollectionView
+                        ItemsSource="{Binding Record.RatioValues}"
+                        SelectionMode="None">
+                        <CollectionView.ItemsLayout>
+                            <LinearItemsLayout Orientation="Vertical" />
+                        </CollectionView.ItemsLayout>
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate
+                                x:DataType="{x:Type model:RatioValue}">
+                                <Frame>
+                                    <StackLayout
+                                        Orientation="Horizontal">
+                                        <Label
+                                            Margin="0, 0, 8, 0"
+                                            FontSize="20"
+                                            Text="{Binding First}"/>
+                                        <Label
+                                            Margin="8, 0, 0, 0"
+                                            FontSize="20"
+                                            Text="{Binding Second}" />
+                                    </StackLayout>
+                                </Frame>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+
+                </StackLayout>
+            </Frame>
+            
+        </StackLayout>
     </ScrollView>
 </ContentPage>

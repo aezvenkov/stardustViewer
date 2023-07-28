@@ -5,6 +5,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Toolkit.Mvvm.Input;
 using Newtonsoft.Json;
 using StardustViewer.Model;
+using System.Reactive.Subjects;
 
 namespace StardustViewer.ViewModel;
 
@@ -27,6 +28,12 @@ public partial class MainViewModel : ObservableObject
         {
             PickerTitle = "Pick JSON File Please"
         });
+    }
+
+    [ICommand]
+    void ClearList()
+    {
+        Records.Clear();
     }
 
     [ICommand]
